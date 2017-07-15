@@ -11,7 +11,7 @@ Windows binaries download: https://github.com/danielgtaylor/jpeg-archive/release
 
 ### Install
 
-**Files needed:**
+**Files needed from JPEG Archive utilities: https://github.com/danielgtaylor/jpeg-archive**
 - jpeg-recompress.exe
 - jpeg-compare.exe
 
