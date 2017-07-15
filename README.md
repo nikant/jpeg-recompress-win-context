@@ -35,6 +35,7 @@ Upon correct installation you can right click on a directory with jpeg files tha
 
 The command file will also run **jpeg-compare** between each one of the recompressed files against the original jpeg file. On Exit in each new diretory there will be a **.txt** file containing info about how each file compares to the original (lower values are better) and also a filename selected which is the file more similar to the original and with smaller file size.
 
+![JPG Recompress context menu](screenshots/jpegopt-context-up.png "JPG Recompress context menu")
 
 ----------------
 
