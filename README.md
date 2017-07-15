@@ -9,6 +9,14 @@ Windows binaries download: https://github.com/danielgtaylor/jpeg-archive/release
 
 ----------------
 
+### Disclaimer
+
+I am not responsible for bricked computers, dead hard drives, thermonuclear war,
+or you getting fired because you ruined your work PC. Please do some research and
+if you have any concerns DO NOT USE this command file or the mentioned utilities. 
+
+----------------
+
 ### Install
 
 **Files needed from JPEG Archive utilities: https://github.com/danielgtaylor/jpeg-archive**
@@ -43,14 +51,6 @@ The command file will also run **jpeg-compare** between each one of the recompre
 
 - In the "C:\Program Files\jpegopt" double click jpegrecomp-unregister.reg in order to remove the values from the registry
 - Delete "jpegopt" directory by hand
-
-----------------
-
-### Disclaimer
-
-I am not responsible for bricked computers, dead hard drives, thermonuclear war,
-or you getting fired because you ruined your work PC. Please do some research and
-if you have any concerns DO NOT USE this command file or the mentioned utilities. 
 
 ----------------
 
