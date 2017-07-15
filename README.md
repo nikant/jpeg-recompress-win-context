@@ -18,12 +18,12 @@ Windows binaries download: https://github.com/danielgtaylor/jpeg-archive/release
 **Installation:**
 - Create a folder in C:\Program Files called "jpegopt" ( C:\Program Files\jpegopt )
 - Place there the following files:
-- jpeg-recompress.exe
-- jpeg-compare.exe
--- dirjpgrec.cmd
--- jpegrecomp.cmd
--- jpegrecomp-register.reg
--- jpegrecomp-unregister.reg
+  - jpeg-recompress.exe
+  - jpeg-compare.exe
+  - dirjpgrec.cmd
+  - jpegrecomp.cmd
+  - jpegrecomp-register.reg
+  - jpegrecomp-unregister.reg
 
 - Double click jpegrecomp-register.reg in order to create values in Windows registry for the context menu (Windows will ask you about permission to install values into Registry).
 
