@@ -18,8 +18,8 @@ Windows binaries download: https://github.com/danielgtaylor/jpeg-archive/release
 **Installation:**
 - Create a folder in C:\Program Files called "jpegopt" ( C:\Program Files\jpegopt )
 - Place there the following files:
--- jpeg-recompress.exe
--- jpeg-compare.exe
+- jpeg-recompress.exe
+- jpeg-compare.exe
 -- dirjpgrec.cmd
 -- jpegrecomp.cmd
 -- jpegrecomp-register.reg
